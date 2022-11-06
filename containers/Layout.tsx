@@ -15,7 +15,7 @@ const Layout = ({ children }: LayoutProps) => {
           name="description"
           content="Supaguide, your Supabase guides anytime, anywhere."
         />
-        <link rel="icon" href="/icons/supabase-logo-icon.svg" />
+        <link rel="icon" href="/favicon.svg" />
       </Head>
       <NavBar
         options={tabsData}
